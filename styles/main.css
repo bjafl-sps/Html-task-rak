@@ -1,0 +1,47 @@
+body {
+    background-image: url(../img/xxxx.jpg);
+}
+
+h1 {
+  font-size: 50px;
+  font-family: serif;
+  color: rgb(189, 9, 9);
+  text-align: center;
+}
+
+h2 {
+  font-size: 35px;
+  font-family: serif;
+}
+
+p {
+  font-size: 35px;
+  font-family: serif;
+  text-align: center;
+  font-weight: bold;
+}
+
+p.highlight {
+    color: red;
+}
+
+div {
+  text-align: center;
+}
+div.textBox {
+   background-color: white; 
+   opacity: 0.5;
+   padding: 20px;
+   margin: auto;
+   margin-top: 50px;
+   max-width: 1050px;
+}
+
+img {
+  display: block;
+  margin: auto;
+  border: 10px solid #050000;
+  max-width: 1000px;
+  width: 100%;
+  height: auto;
+}
