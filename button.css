@@ -1,0 +1,8 @@
+body {  background-image: url(../img/xxx.jpg);
+}
+p {
+    font-size: 40px;
+    font-family: serif;
+    text-align: center;
+    font-weight: bold;
+  }
